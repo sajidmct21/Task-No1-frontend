@@ -1,8 +1,11 @@
+import Logout from "./Logout"
 
 
 function Home() {
   return (
-    <div>Home</div>
+    <div>Home
+      <Logout />
+    </div>
   )
 }
 
